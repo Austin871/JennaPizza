@@ -296,6 +296,8 @@ footer{
 .menu-filters{
     flex-wrap: wrap;
 }
-
+.features{
+    z-index:50;
+}
 }
 /* All Done! */
